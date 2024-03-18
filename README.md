@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [vibhour.vercel.app](vibhour.vercel.app)
+- 👨‍💻 All of my projects are available at [vibhour.vercel.app](https://vibhour.vercel.app)
 
 - 💬 Ask me about **JavaScript, React.js**
 
