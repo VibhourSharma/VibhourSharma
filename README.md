@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vibhourrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vibhourrr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vibhour-sharma-b268662b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vibhour-sharma-b268662b7/" height="30" width="40" /></a>
-<a href="https://fb.com/vibhour.sharma.503/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vibhour.sharma.503/" height="30" width="40" /></a>
+<a href="https://x.com/vibhourrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vibhourrr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vibhour-sharma-b268662b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vibhour-sharma-b268662b7/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/vibhour.sharma.503/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vibhour.sharma.503/" height="30" width="40" /></a>
 <a href="https://instagram.com/vibhourrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vibhourrr" height="30" width="40" /></a>
 </p>
 
